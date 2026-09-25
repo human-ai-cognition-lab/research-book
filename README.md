@@ -23,7 +23,7 @@ Human-AI Cognition Lab의 연구 기록 저장소입니다. 인간-AI 협업, �
 **새 글 추가하기**
 1. 이 저장소의 [`src` 폴더](https://github.com/human-ai-cognition-lab/research-book/tree/main/src)로 이동
 2. **Add file → Create new file** 클릭
-3. 파일 이름 입력 (예: `sensemaking/my-note.md`)
+3. 파일 이름 입력란에 `sensemaking/my-note.md`처럼 `/`를 포함해서 입력 — `/` 앞부분(`sensemaking`)은 자동으로 폴더가 되고, 그 안에 `my-note.md` 파일이 만들어집니다 (결과: `src/sensemaking/my-note.md`)
 4. 내용 작성 (마크다운)
 5. 페이지 하단에서 **Commit directly to the main branch** 선택 후 **Commit new file**
 
