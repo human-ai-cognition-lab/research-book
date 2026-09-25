@@ -1,0 +1,8 @@
+[book]
+title = "Human-AI Cognition Lab Research"
+authors = []
+language = "ko"
+src = "src"
+
+[output.html]
+default-theme = "light"
