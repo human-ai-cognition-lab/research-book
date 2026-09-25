@@ -1,0 +1,8 @@
+/* GitHub's markdown preview underlines h1/h2 headings; mdBook's default
+   theme doesn't. Add it back so headings look the same in both places,
+   regardless of which mdBook theme (light/dark/etc.) is active. */
+.content h1,
+.content h2 {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+  padding-bottom: 0.3em;
+}
