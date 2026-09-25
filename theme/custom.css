@@ -19,3 +19,11 @@
 .content table td {
   text-align: left;
 }
+
+/* mdBook dims sidebar entries that have no link (e.g. a group title like
+   "- [26년하반기]()" with only nested children) via --sidebar-non-existant,
+   since that color is normally overridden by the `.chapter li a` rule —
+   which group titles don't have. Restore the normal sidebar text color. */
+.chapter-link-wrapper > span {
+  color: var(--sidebar-fg);
+}
