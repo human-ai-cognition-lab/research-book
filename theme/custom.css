@@ -1,7 +1,20 @@
-/* github-markdown.css (vendored below) already underlines h1/h2 and
-   avoids centering the table block. The one thing it leaves at the
-   browser default is <th> text-align (centered), so pin that to left
-   to match <td>. */
+/* GitHub's markdown preview underlines h1/h2 headings; mdBook's default
+   theme doesn't. Add it back so headings look the same in both places,
+   regardless of which mdBook theme (light/dark/etc.) is active. */
+.content h1,
+.content h2 {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+  padding-bottom: 0.3em;
+}
+
+/* mdBook centers both the table block itself (margin: 0 auto) and cell
+   text by default; left-aligned reads better and matches the rest of
+   the prose (member lists, etc.). */
+.content table {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .content table th,
 .content table td {
   text-align: left;

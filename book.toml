@@ -1,5 +1,5 @@
 [book]
-title = "Human-AI Cognition Research Lab"
+title = "Human-AI Cognition Research Book"
 authors = []
 language = "ko"
 src = "src"
@@ -8,4 +8,4 @@ src = "src"
 default-theme = "light"
 git-repository-url = "https://github.com/human-ai-cognition-lab/research-book"
 edit-url-template = "https://github.com/human-ai-cognition-lab/research-book/edit/main/{path}"
-additional-css = ["theme/github-markdown.css", "theme/custom.css"]
+additional-css = ["theme/custom.css"]
