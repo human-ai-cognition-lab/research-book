@@ -6,3 +6,5 @@ src = "src"
 
 [output.html]
 default-theme = "light"
+git-repository-url = "https://github.com/human-ai-cognition-lab/research-book"
+edit-url-template = "https://github.com/human-ai-cognition-lab/research-book/edit/main/{path}"
