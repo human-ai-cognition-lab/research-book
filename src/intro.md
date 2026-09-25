@@ -19,7 +19,7 @@ Human-AI 협업을 위한 인터페이스 연구모입의 리서치 저장소입
 
 ## 연구에 참여하는 방법 
 
-[참여 방법](https://github.com/human-ai-cognition-lab/research-book)
+[참여 방법 읽어보기](https://github.com/human-ai-cognition-lab/research-book)
 
 ## 참여 멤버
 
