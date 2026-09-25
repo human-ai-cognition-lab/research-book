@@ -1,5 +1,7 @@
 # research-book
 
+**📖 [리서치북 바로 열기](https://human-ai-cognition-lab.github.io/)**
+
 Human-AI Cognition Lab의 연구 기록 저장소입니다. 인간-AI 협업, 인지, 센스메이킹, LLM 인지 연구에 관한 글을 씁니다.
 
 이 문서는 이 프로젝트에 처음 참여하시는 분을 위한 안내입니다.
