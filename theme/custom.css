@@ -7,8 +7,14 @@
   padding-bottom: 0.3em;
 }
 
-/* mdBook centers table cells by default; left-aligned reads better for
-   prose-heavy tables (member lists, etc.). */
+/* mdBook centers both the table block itself (margin: 0 auto) and cell
+   text by default; left-aligned reads better and matches the rest of
+   the prose (member lists, etc.). */
+.content table {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .content table th,
 .content table td {
   text-align: left;
