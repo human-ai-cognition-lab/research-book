@@ -27,3 +27,14 @@
 .chapter-link-wrapper > span {
   color: var(--sidebar-fg);
 }
+
+/* Per-page ownership footer (see intro.md's participation rules: each
+   page is "managed by" whoever created/owns it). Markup:
+   `<span class="page-owner">Managed by NAME</span>` after a `---` rule. */
+.page-owner {
+  display: block;
+  margin-top: 2em;
+  text-align: right;
+  font-size: 0.85em;
+  color: rgba(128, 128, 128, 0.85);
+}

@@ -3,4 +3,6 @@ Chairside-AI 개발 과정에서 획득한 경험과 인사이트를 모아두�
 
 
 
-Managed-by Grayson
+---
+
+<span class="page-owner">Managed by Grayson</span>

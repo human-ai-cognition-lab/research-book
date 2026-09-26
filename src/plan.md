@@ -24,3 +24,7 @@
 ### 마무리 - 연구 보고서 작성 
 * 26년 12월 지행 
 * (구체적인 방식은 미정)
+
+---
+
+<span class="page-owner">Managed by Grayson</span>
