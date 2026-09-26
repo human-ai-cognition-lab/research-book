@@ -55,7 +55,5 @@ LLM을 통한 정보 생산 속도와 생산량에 비해 이를 인지하고 �
 | --- | --- | --- |
 | 이종옥 | 리서치 매니저 | e.jongok@gmail.com |
 
----
-
 <span class="page-owner">Managed by Grayson</span>
 
